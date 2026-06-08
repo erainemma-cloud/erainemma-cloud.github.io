@@ -56,12 +56,12 @@ margin-bottom: 5px;
 /*-------------------------*/
 img[src$="icon-beetle-gold.png"] {
 content: url("https://i.imgur.com/Ldl247W.png") !important;
-width: 20px !important;
+width: 55px !important;
 }
 
 img[src$="icon-beetle-silver.png"] {
 content: url("https://i.imgur.com/xHCeF1I.png") !important;
-width: 20px !important;
+width: 55px !important;
 }
 
 /* Bookmark Button*/
