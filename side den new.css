@@ -347,14 +347,6 @@ height: 100px;
 width: auto;
 }
 
-a[href$="40585"] > div.cave-grid > img {
-content: url('https://i.imgur.com/IvATG49.png')!important;
-}
-
-a[href$="10767"] > div.cave-grid > img {
-content: url('https://i.imgur.com/Ftru2sZ.png')!important;
-}
-
 ol.breadcrumb{
 	background:  rgba(0, 0, 0, .20) !important;
 	border: single; 
