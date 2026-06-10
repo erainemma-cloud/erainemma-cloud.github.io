@@ -369,8 +369,8 @@ font-size: 18px !important;
 .cave-grid img {
 content: url('https://i.imgur.com/vBKkIWE.png');
 padding-left: 0%;
-	height: 125px;	
-	width:250px;
+	height: 100px;	
+	width:auto;
 	opacity: 0.7;
 	border: 0px ridge;
 	overflow: hidden;
@@ -384,8 +384,8 @@ div.cave-grid>img:hover{
 	content: url('https://cdn.dribbble.com/userupload/27031664/file/original-a96adcafb570fe02749c71b4da83e6ed.gif')!important;
 	padding-left: 0%;
 	padding-bottom: 0%;
-	height: 125px;	
-	width:250px;
+	height: 100px;	
+	width:auto;
 	opacity: 1;
 	overflow: hidden;
 	transition: 0.9s !important;
