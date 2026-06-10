@@ -368,8 +368,16 @@ font-size: 18px !important;
 }
 .cave-grid img {
 content: url('https://i.imgur.com/vBKkIWE.png');
-height: 100px;
-width: auto;
+padding-left: 0%;
+	height: 125px;	
+	width:250px;
+	opacity: 0.7;
+	border: 0px ridge;
+	overflow: hidden;
+	border: 0px;
+	border-radius: 10px !important;
+	box-shadow:  1px 1px 5px var(--darkgray)!important;
+	transition: 0.8s !important;
 }
 
 div.cave-grid>img:hover{
