@@ -384,8 +384,8 @@ div.cave-grid>img:hover{
 	content: url('https://i.imgur.com/u6TTs6A.gif')!important;
 	padding-left: 0%;
 	padding-bottom: 0%;
-	height: 100px;	
-	width:auto;
+	height: 125px;	
+	width:250px;
 	opacity: 1;
 	overflow: hidden;
 	transition: 0.9s !important;
