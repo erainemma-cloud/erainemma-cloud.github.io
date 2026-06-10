@@ -376,11 +376,12 @@ padding-left: 0%;
 	overflow: hidden;
 	border: 0px;
 	border-radius: 10px !important;
+	box-shadow:  1px 1px 5px var(--darkgray)!important;
 	transition: 0.8s !important;
 }
 
 div.cave-grid>img:hover{
-	content: url('https://cdn.dribbble.com/userupload/27031664/file/original-a96adcafb570fe02749c71b4da83e6ed.gif')!important;
+	content: url('https://i.imgur.com/u6TTs6A.gif')!important;
 	padding-left: 0%;
 	padding-bottom: 0%;
 	height: 100px;	
