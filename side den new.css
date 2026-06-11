@@ -347,7 +347,7 @@ width: 0;
 	padding-top: 80px;
 	padding-right: 130px;
 	opacity: 1;
-	transition: 0.8s !important;
+	transition: 0.3s !important;
 }
 
 
@@ -372,7 +372,7 @@ padding-left: 0%;
 	border: 0px;
 	border-radius: 10px !important;
 	box-shadow:  1px 1px 5px var(--darkgray)!important;
-	transition: 0.8s !important;
+	transition: 0.3s !important;
 }
 
 
