@@ -330,6 +330,7 @@ box-shadow: none;
 content: url('https://i.imgur.com/NRpzSjj.png');
 	padding-top: 80px;
 	padding-right: 130px;
+	max-height:150px;
 	border-radius: 10px !important;
 	opacity: 0.7;
 	box-shadow:  1px 1px 5px var(--darkgray)!important;
@@ -342,6 +343,7 @@ content: url('https://i.imgur.com/NRpzSjj.png');
 	background: url('https://i.imgur.com/NRpzSjj.png');
 	padding-top: 80px;
 	padding-right: 130px;
+	max-height:150px;
 	opacity: 1;
 	transition: 0.8s !important;
 }
