@@ -326,11 +326,8 @@ color: #c01a64;
 border: 3px solid #09a1cf !important;
 box-shadow: none;
 }
-
 .mound-grid img {
 content: url('https://i.imgur.com/NRpzSjj.png');
-width: 0;
-	height: 0;
 	padding-top: 80px;
 	padding-right: 130px;
 	border-radius: 10px !important;
@@ -338,16 +335,15 @@ width: 0;
 	box-shadow:  1px 1px 5px var(--darkgray)!important;
 	transition: 0.8s !important;
 }
+}
 
 	
 .mound-grid img:hover{
 	background: url('https://i.imgur.com/NRpzSjj.png');
-	width: 0;
-	height: 0;
 	padding-top: 80px;
 	padding-right: 130px;
 	opacity: 1;
-	transition: 0.3s !important;
+	transition: 0.8s !important;
 }
 
 
@@ -372,7 +368,7 @@ padding-left: 0%;
 	border: 0px;
 	border-radius: 10px !important;
 	box-shadow:  1px 1px 5px var(--darkgray)!important;
-	transition: 0.3s !important;
+	transition: 0.8s !important;
 }
 
 
