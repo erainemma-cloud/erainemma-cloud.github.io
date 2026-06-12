@@ -330,17 +330,8 @@ box-shadow: none;
 .mound-grid img {
 content: url('https://i.imgur.com/NRpzSjj.png');
 height: 100px;
-box-shadow:  1px 1px 5px var(--darkgray)!important;
-transition: 0.8s !important;
 }
 
-	
-.mound-grid img:hover{
-	background: url('https://i.imgur.com/NRpzSjj.png');
-	height: 100px;
-	opacity: 1;
-	transition: 0.8s !important;
-}
 
 
 .cave-grid {
