@@ -354,7 +354,13 @@ font-size: 18px !important;
 .mound-grid img {
 content: url('https://i.imgur.com/s0vLbjx.png');
 height: 100px;
+box-shadow:  1px 1px 5px var(--darkgray)!important;
 }
+
+div.mound-grid>img:hover{
+	content: url('https://i.imgur.com/s0vLbjx.png');
+    height: 100px;
+    transition: 0.9s !important;}
 
 .cave-grid {
 border-bottom-left-radius: 10px !important;
@@ -376,7 +382,6 @@ padding-left: 0%;
 	overflow: hidden;
 	border: 0px;
 	border-radius: 10px !important;
-	box-shadow:  1px 1px 5px var(--darkgray)!important;
 	transition: 0.8s !important;
 }
 
