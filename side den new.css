@@ -354,10 +354,9 @@ padding-left: 0%;
 	overflow: hidden;
 	border: 0px;
 	border-radius: 10px !important;
-	box-shadow:  1px 1px 5px var(--darkgray)!important;
-	transition: 0.8s !important;
+	Opacity: 0.4;
+	transition: transform 1s ease !important;
 }
-
 
 div.cave-grid>img:hover{
 	content: url('https://i.imgur.com/mjO7Lj9.png')!important;
