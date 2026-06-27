@@ -93,7 +93,7 @@ font-family: 'Permanent Marker', sans-serif;
 font-size: 15px !important;
 }
 @media (min-width: 768px) {
-    .breadcrumb::after { content: "CSS by Vacant Coin (#14969)"; color: #09a1cf; position: absolute; right: 5%; z-index: 100; }
+    .breadcrumb::after { content: "CSS by Vacant Coin (#14969)"; color: #09a1cf; position: absolute; right: 13%; z-index: 100; }
 }
 
 .feature {
@@ -320,8 +320,6 @@ box-shadow: none;
 content: url('https://i.imgur.com/NRpzSjj.png');
 height: 100px;
 }
-
-
 
 .cave-grid {
 border-bottom-left-radius: 40px !important;
