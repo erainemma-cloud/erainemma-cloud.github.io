@@ -89,7 +89,7 @@ box-shadow: none !important;
 
 .navbar {
 color: #09a1cf;
-background: linear-gradient(to right, #00000000, #000000, #00000000)!important;
+background: rgba(0, 0, 0, .80)!important;
 border: none !important;
 }
 
