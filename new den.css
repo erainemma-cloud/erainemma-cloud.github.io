@@ -133,6 +133,9 @@ font-size: 13px !important;
 .breadcrumb .active {
   color: #c9b8b8 !important;
 }
+@media (min-width: 768px) {
+    .breadcrumb::after { content: "CSS by Vacant Coin (#14969)"; color: #c9b8b8; position: absolute; right: 5%; z-index: 100; }
+}
 
 .feature {
 background-color: rgb(38, 34, 36, .80);
