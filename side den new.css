@@ -106,6 +106,9 @@ border-radius: 10px;
 font-family: 'Permanent Marker', sans-serif;
 font-size: 15px !important;
 }
+@media (min-width: 768px) {
+    .breadcrumb::after { content: "CSS by Vacant Coin (#14969)"; color: #09a1cf; position: absolute; right: 5%; z-index: 100; }
+}
 
 .feature {
 background-color: rgba(0, 0, 0, .50);
