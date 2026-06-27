@@ -23,23 +23,9 @@ height: 200px;
 }
 
 .box1 {
-float: left;
-background-color: rgba(0, 0, 0, .40) !important;
-width: 400px;
-height: 200px;
-border: 4px solid #09a1cf;
-padding: 4px;
-color: #c01a64;
-text-align: center;
-overflow: auto;
-margin-bottom: 4px;
-font-family: 'Permanent Marker', sans-serif;
-font-size: 15px !important;
-}
-.box2 {
 float: center;
 background-color: rgba(0, 0, 0, .40) !important;
-width: 400px;
+width: 600px;
 height: 200px;
 border: 4px solid #09a1cf;
 padding: 4px;
