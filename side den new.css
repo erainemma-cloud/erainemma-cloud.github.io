@@ -386,11 +386,10 @@ font-family: 'Permanent Marker', sans-serif;
 font-size: 15px !important;
 }
  
- table.table, div.left {
-background-color: transparent !important;
-}
-
-div.left {border: 2px solid #09a1cf;}
+.feature,
+div.left {
+background-color: rgb(237, 135, 117, .40);
+border: none;}
 
 div.left img {
     content: url('https://i.imgur.com/dOEH69Z.png');
@@ -398,16 +397,10 @@ div.left img {
     object-position: top;
     padding: 0;
     height: auto;
-    max-width: auto !important;
+    width: auto !important;
     border-bottom-left-radius: inherit;
-    border-bottom-right-radius: inherit;
-}
-
-a div.left:hover,
-a div.left:focus {
-    color: #09a1cf;
-}
-
+    border-bottom-right-radius: inherit;}
+	
 .dynastylist {
 flex: 1 1 auto;
 max-width: 40%; 
@@ -420,6 +413,11 @@ border-radius: 0px !important;
 font-size: 20px !important;
 margin-bottom: -20px!important;
 }
+
+.table th {
+background-color: rgb(188, 101, 113,.70) !important;
+border: none !important;
+color: #c64d5a;}
 
  
 .inner-table .right {
