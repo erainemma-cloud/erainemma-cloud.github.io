@@ -13,7 +13,7 @@ cursor: url(https://i.imgur.com/NQekArB.png), progress;
 @keyframes float {
     0% { transform: translateY(0px); }
     50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
+100% { transform: translateY(0px); }}
 
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
 content: url('https://i.imgur.com/wxBQXgK.png'); 
