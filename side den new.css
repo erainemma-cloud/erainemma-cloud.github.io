@@ -396,7 +396,7 @@ div.left img {
     object-fit: cover;
     object-position: top;
     padding: 0;
-    height: auto;
+    height: auto !important;
     width: auto !important;
     border-bottom-left-radius: inherit;
     border-bottom-right-radius: inherit;}
