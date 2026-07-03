@@ -542,8 +542,8 @@ button.button:hover {
   cursor: url(https://i.imgur.com/NQekArB.png), progress !important;
 }
 
-a.button, a.button: hover {
-  background: rgba(0, 0, 0, .20) !important;
+a.button, a.button:hover {
+ background: rgba(0, 0, 0, .20) !important;
   border: 2px solid #09a1cf !important;
   border-radius: 3px !important;
   text-shadow: none !important;
