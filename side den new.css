@@ -116,7 +116,7 @@ background-color: rgba(0, 0, 0, .20)!important;
 border: 4px solid #09a1cf !important;
 box-shadow: none !important;
 font-family: 'Permanent Marker', sans-serif;
-font-size: 17px !important;
+font-size: 20px !important;
 }
 
 .topbar {
@@ -165,7 +165,7 @@ button#label_currentChannel {
     border-radius: 10px !important;
 	background: rgba(0, 0, 0, .40) !important;
 	font-family: 'Permanent Marker', sans-serif !important;
-font-size: 17px !important;
+font-size: 20px !important;
 }
 
 a:link {
@@ -199,7 +199,7 @@ background: rgba(0, 0, 0, .30)!important;
 border: 0px !important;
 border-color: transparent;
 font-family: 'Permanent Marker', sans-serif;
-font-size: 17px !important;
+font-size: 20px !important;
 }
 
 tbody {
@@ -207,7 +207,7 @@ background: transparent !important;
 border: 0px !important;
 border-color: transparent;
 font-family: 'Permanent Marker', sans-serif;
-font-size: 17px !important;
+font-size: 20px !important;
 }
 
 table.auto {
@@ -215,7 +215,7 @@ background: transparent;
 border: 0px !important;
 border-color: transparent;
 font-family: 'Permanent Marker', sans-serif;
-font-size: 17px !important;
+font-size: 20px !important;
 }
 
 td.right>img {
@@ -234,7 +234,7 @@ text-align: center !important;
 text-shadow: none !important;
 box-shadow: none !important;
 font-family: 'Permanent Marker', sans-serif;
-font-size: 17px !important;
+font-size: 20px !important;
 }
 
 select {
@@ -257,7 +257,7 @@ text-align: center!important;
 text-shadow: none !important;
 box-shadow: none !important;
 font-family: 'Permanent Marker', sans-serif;
-font-size: 17px !important;
+font-size: 20px !important;
 }
 
 select:focus {
@@ -383,7 +383,7 @@ border: 3px solid #09a1cf !important;
 border-radius: 10px;
 color: #c01a64;
 font-family: 'Permanent Marker', sans-serif;
-font-size: 17px !important;
+font-size: 20px !important;
 }
  
 .feature,
