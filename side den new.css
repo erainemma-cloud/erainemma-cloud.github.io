@@ -393,12 +393,12 @@ background-color: transparent !important;
 div.left {border: 2px solid #09a1cf;}
 
 div.left img {
-    content: url('https://i.etsystatic.com/50439368/r/il/4385a2/7009706945/il_fullxfull.7009706945_88vf.jpg');
+    content: url('https://i.imgur.com/dOEH69Z.png');
     object-fit: cover;
     object-position: top;
     padding: 0;
-    height: 60px;
-    max-width: 500px !important;
+    height: auto;
+    max-width: auto !important;
     border-bottom-left-radius: inherit;
     border-bottom-right-radius: inherit;
 }
@@ -406,6 +406,19 @@ div.left img {
 a div.left:hover,
 a div.left:focus {
     color: #09a1cf;
+}
+
+.dynastylist {
+flex: 1 1 auto;
+max-width: 30%; 
+box-sizing: border-box; 
+}
+.dynastylist img {
+border-radius: 0px !important;
+}
+.dynastylist h3 {
+font-size: 20px !important;
+margin-bottom: -20px!important;
 }
 
  
