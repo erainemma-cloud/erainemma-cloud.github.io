@@ -410,7 +410,7 @@ a div.left:focus {
 
 .dynastylist {
 flex: 1 1 auto;
-max-width: 30%; 
+max-width: 40%; 
 box-sizing: border-box; 
 }
 .dynastylist img {
