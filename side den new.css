@@ -389,7 +389,7 @@ font-size: 15px !important;
 .feature,
 div.left {
 background-color: rgba(0, 0, 0,.30);
-border: none;}
+border: 3px solid #09a1cf;}
 
 div.left img {
     content: url('https://i.imgur.com/dOEH69Z.png');
