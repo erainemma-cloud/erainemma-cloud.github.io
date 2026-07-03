@@ -80,6 +80,7 @@ border-radius: 10px;
 box-shadow: none !important;
 }
 
+
 .navbar {
 color: #09a1cf;
 background: rgba(0, 0, 0, .80)!important;
@@ -551,6 +552,33 @@ a.button, a.button:hover {
   font-family: 'Permanent Marker', sans-serif;
   cursor: url(https://i.imgur.com/NQekArB.png), progress !important;}
 	
+
+
+img[src$="icon_den_wishlist.png"] {
+    display: none;
+}
+img[src$="bugbox.png"] {
+    display: none;
+}
+img[src$="icon_den_friend.png"] {
+    display: none;
+}
+img[src$="icon_den_message.png"] {
+    display: none;
+}
+img[src$="icon_den_gift.png"] {
+    display: none;
+}
+img[src$="icon_den_trade.png"] {
+    display: none;
+}
+img[src$="icon_den_viewtrade.png"] {
+    display: none;
+}
+img[src$="icon_den_block.png"] {
+    display: none;
+}
+
 
 
 .footer {

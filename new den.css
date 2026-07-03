@@ -553,6 +553,31 @@ font-family: 'Orbitron', sans-serif;
 }
 
 
+img[src$="icon_den_wishlist.png"] {
+    display: none;
+}
+img[src$="bugbox.png"] {
+    display: none;
+}
+img[src$="icon_den_friend.png"] {
+    display: none;
+}
+img[src$="icon_den_message.png"] {
+    display: none;
+}
+img[src$="icon_den_gift.png"] {
+    display: none;
+}
+img[src$="icon_den_trade.png"] {
+    display: none;
+}
+img[src$="icon_den_viewtrade.png"] {
+    display: none;
+}
+img[src$="icon_den_block.png"] {
+    display: none;
+}
+
 .footer {
 border: none;
 border-radius: 15px;
