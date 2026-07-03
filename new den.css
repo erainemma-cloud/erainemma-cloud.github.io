@@ -96,6 +96,31 @@ button.button:hover {
   cursor: url(https://i.imgur.com/rsT4HXp.png), progress !important; 
 }
 
+img[src$="icon_den_wishlist.png"] {
+    display: none;
+}
+img[src$="bugbox.png"] {
+    display: none;
+}
+img[src$="icon_den_friend.png"] {
+    display: none;
+}
+img[src$="icon_den_message.png"] {
+    display: none;
+}
+img[src$="icon_den_gift.png"] {
+    display: none;
+}
+img[src$="icon_den_trade.png"] {
+    display: none;
+}
+img[src$="icon_den_viewtrade.png"] {
+    display: none;
+}
+img[src$="icon_den_block.png"] {
+    display: none;
+}
+
 .col-md-9 {
 float: right;
 width: 75%;
@@ -550,32 +575,6 @@ color: #c9b8b8 !important;
 border: 3px solid #c9b8b8 !important;
 text-align: center !important;
 font-family: 'Orbitron', sans-serif;
-}
-
-
-img[src$="icon_den_wishlist.png"] {
-    display: none;
-}
-img[src$="bugbox.png"] {
-    display: none;
-}
-img[src$="icon_den_friend.png"] {
-    display: none;
-}
-img[src$="icon_den_message.png"] {
-    display: none;
-}
-img[src$="icon_den_gift.png"] {
-    display: none;
-}
-img[src$="icon_den_trade.png"] {
-    display: none;
-}
-img[src$="icon_den_viewtrade.png"] {
-    display: none;
-}
-img[src$="icon_den_block.png"] {
-    display: none;
 }
 
 .footer {
