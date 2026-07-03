@@ -388,7 +388,7 @@ font-size: 15px !important;
  
 .feature,
 div.left {
-background-color: rgb(237, 135, 117, .40);
+background-color: rgba(0, 0, 0,.30);
 border: none;}
 
 div.left img {
