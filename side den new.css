@@ -17,7 +17,7 @@ cursor: url(https://i.imgur.com/NQekArB.png), progress;
 
 body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
 content: url('https://i.imgur.com/wxBQXgK.png'); 
-animation: float 3s ease-in-out infinite;}
+animation: float 2s ease-in-out infinite;}
 
 .boxcontainer {
 background: none;
