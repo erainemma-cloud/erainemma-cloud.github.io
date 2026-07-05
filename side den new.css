@@ -93,22 +93,6 @@ font-family: 'Permanent Marker', sans-serif;
 font-size: 22px !important;
 }
 
-@media screen and (min-width: 601px) {
-
-.navbar {     display:flex;
-        justify-content: center; 
-}
-
-.navbar li a:hover {
-	background-image: url('https://i.pinimg.com/originals/5a/e5/1a/5ae51ac69490f5322128c04c7c976368.gif') !important;
-        background-blend-mode: multiply;
-        background-size: cover !important;
-        color: #000000 !important;
-        border: 1px solid #09a1cf;
-        text-shadow: 2px 2px 2px #09a1cf;
-	transition: 1s;
-}}
-
 .breadcrumb {
 color: #09a1cf;
 background-color: rgba(0, 0, 0, .10)!important;
