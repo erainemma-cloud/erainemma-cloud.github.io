@@ -75,14 +75,6 @@ input.floatright:hover {
   cursor: url(https://i.imgur.com/rsT4HXp.png), progress !important; 
 }
 
-a.button, a.button:hover {
-  background: rgb(38, 34, 36, .60) !important;
-  border: 2px solid #c9b8b8 !important;
-  border-radius: 3px !important;
-  color: #c9b8b8 !important;
-  font-family: 'Orbitron', sans-serif;
- cursor: url(https://i.imgur.com/rsT4HXp.png), progress !important;}
-
 
 /* Switch Account Button*/
 button.button,
@@ -95,6 +87,16 @@ button.button:hover {
   font-family: 'Orbitron', sans-serif;
   cursor: url(https://i.imgur.com/rsT4HXp.png), progress !important; 
 }
+
+/*Bug Box*/
+a.button, a.button:hover {
+ background: rgb(38, 34, 36, .60) !important;
+  border: 2px solid #c9b8b8 !important;
+  border-radius: 2px !important;
+  text-shadow: none !important;
+  color: #c9b8b8  !important;
+  font-family: 'Orbitron', sans-serif;
+  cursor: url(https://i.imgur.com/rsT4HXp.png), progress !important;}
 
 img[src$="icon_den_wishlist.png"] {
     display: none;
