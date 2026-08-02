@@ -58,8 +58,6 @@ width: 30px !important;
 }
 
 .col-md-9 {
-float: right;
-width: 75%;
 background-color: rgba(0, 0, 0, .40) !important;
 border: none;
 border-radius: 4px;
