@@ -124,8 +124,6 @@ img[src$="icon_den_block.png"] {
 }
 
 .col-md-9 {
-float: right;
-width: 75%;
 background-color: transparent !important;
 border-radius: 5px;
 box-shadow: none !important;
