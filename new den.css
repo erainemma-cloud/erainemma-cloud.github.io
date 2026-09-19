@@ -255,7 +255,7 @@ font-size: 20px !important;
 }
 
 table#about {
-    background: url('https://hips.hearstapps.com/autoweek/assets/s3fs-public/140439983.jpg') top no-repeat;
+    background: url('https://hips.hearstapps.com/autoweek/assets/s3fs-public/140439983.jpg') top no-repeat !imporant;
 	background-size: cover;
     border: none !important;
     border-radius: 30px 30px 0px 0px;
@@ -459,12 +459,6 @@ background-color: transparent !important;
 div.left {
 background-color: rgba(38, 34, 36,.60);
 border: none;}
- 
-.inner-table .right {
-background: transparent !important;
-border: 0px !important;
-border-left: none !important;
-}
 
 .progress-bar-warning { text color: #c9b8b8!important; background: #c64d5a !important; border: 10px;}
 
